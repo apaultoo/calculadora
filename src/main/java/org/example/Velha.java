@@ -9,7 +9,7 @@ public class Velha {
 	    private char jogador;
 
 	    // Um construtor que inicializa o tabuleiro e o jogador
-	    public JogoDaVelha() {
+	    public Velha() {
 	        // Criando um tabuleiro de 3 por 3
 	        tabuleiro = new char[3][3];
 	        // Preenchendo o tabuleiro com espaços vazios
